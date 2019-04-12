@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# TXT Files 
+shell.txt
+history.txt
